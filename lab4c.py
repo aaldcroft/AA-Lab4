@@ -6,18 +6,7 @@
 # Usage: ./lab4c.py
 
 # Follow the instructions from readme.md.
-'''
-Fill in the required fields in the comment section.
-Write a function sum that takes two numbers as parameters
- and returns their sum.
-Write the main functions.
-In the main function get two numbers from user.
- Convert the user input to int.
-Call the sum function and pass the two numbers as argument.
-In the main() function, receive the sum in a variable, 
-and print the sum for the user.
-Call the main function inside the condition:
-'''
+
 def sum(num1,num2): #creates the function with 2 parameters 
     return num1 + num2 # adds the 2 numbers and returns the sum
 
