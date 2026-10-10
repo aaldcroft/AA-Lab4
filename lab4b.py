@@ -14,15 +14,7 @@
 # TO DO 2: Create the function.
 
 # TO DO 3: Call the function.
-'''
-Write a function called even_numbers 
-that takes a list as argument and returns a new list of all the even numbers
-from the list.
-If the passed list does not contain any even numbers, return an empty list.
-Call the function with a list of 8 integer values.
-Receive the result in a list variable and print the list variable.
-Run your script to test it.
-'''
+
 
 def even_numbers(numbers): #creates the function
 
